@@ -1,9 +1,10 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/tqZ-4RLU)
-# 3500 PA04 - BattleSalvo - Part 2 Project Repo
+# Multiplayer Battleship
 
-[PA04 Write-Up](https://markefontenot.notion.site/PA-04-BattleSalvo-Part-2-20ff66267da84956b35794bf8452c2fd)
+Driver class and functionality for Battleship game is contained in main/java/pa03, and network functionality is contained in main/java/pa04!
 
-This template includes several additional tools:
-1. Gradle Build Automation
-1. JaCoCo for Test Coverage
-1. CheckStyle for Code Style Checks (Using the custom [cs3500 check file](./config/checkstyle/cs3500-checkstyle.xml)) 
+Provide no command line arguments to play a single-player game against an AI bot.
+To play a multiplayer game, provide the arguments as follows:
+ - IP address of server host
+ - Port of host
+
+Further instructions will be provided through the console output. Happy battling!
